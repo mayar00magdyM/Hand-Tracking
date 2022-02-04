@@ -6,3 +6,4 @@ To change the volume of a computer, We first look into hand tracking and then we
     comtypes
     numpy
     pycaw
+ 
